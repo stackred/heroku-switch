@@ -1,0 +1,16 @@
+{
+  "name": "heroku-switch",
+  "version": "1.0.0",
+  "description": "Switch between different Heroku accounts",
+  "main": "index.js",
+  "author": "Tony Novak @stackred",
+  "repository": "stackred/heroku-switch",
+  "bugs": {
+    "url": "https://github.com/stackred/heroku-switch/issues"
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "MIT"
+}
+
